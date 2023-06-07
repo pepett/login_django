@@ -1,0 +1,2 @@
+please run command:
+    pip install django[argon2] 
